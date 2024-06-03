@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BujbW+JBgCHLVPGVJADfHSe1rXRtRvppGtpAstP6zW5aahkzEQMmOB7eD8pyKPwXDlk3PGuw6G82miVDpggTtg==",
+  "success": true,
+  "projectFilePath": "/home/pickle/Projects/PortfolioProjects/ChatForge/ChatForge/CLIUI/CLIUI.csproj",
+  "expectedPackageFiles": [
+    "/home/pickle/.nuget/packages/spectre.console/0.49.1/spectre.console.0.49.1.nupkg.sha512"
+  ],
+  "logs": []
+}

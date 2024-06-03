@@ -1,0 +1,17 @@
+/home/pickle/Projects/PortfolioProjects/ChatForge/ChatForge/CLIUI/bin/Debug/net8.0/CLIUI
+/home/pickle/Projects/PortfolioProjects/ChatForge/ChatForge/CLIUI/bin/Debug/net8.0/CLIUI.deps.json
+/home/pickle/Projects/PortfolioProjects/ChatForge/ChatForge/CLIUI/bin/Debug/net8.0/CLIUI.runtimeconfig.json
+/home/pickle/Projects/PortfolioProjects/ChatForge/ChatForge/CLIUI/bin/Debug/net8.0/CLIUI.dll
+/home/pickle/Projects/PortfolioProjects/ChatForge/ChatForge/CLIUI/bin/Debug/net8.0/CLIUI.pdb
+/home/pickle/Projects/PortfolioProjects/ChatForge/ChatForge/CLIUI/obj/Debug/net8.0/CLIUI.GeneratedMSBuildEditorConfig.editorconfig
+/home/pickle/Projects/PortfolioProjects/ChatForge/ChatForge/CLIUI/obj/Debug/net8.0/CLIUI.AssemblyInfoInputs.cache
+/home/pickle/Projects/PortfolioProjects/ChatForge/ChatForge/CLIUI/obj/Debug/net8.0/CLIUI.AssemblyInfo.cs
+/home/pickle/Projects/PortfolioProjects/ChatForge/ChatForge/CLIUI/obj/Debug/net8.0/CLIUI.csproj.CoreCompileInputs.cache
+/home/pickle/Projects/PortfolioProjects/ChatForge/ChatForge/CLIUI/obj/Debug/net8.0/CLIUI.dll
+/home/pickle/Projects/PortfolioProjects/ChatForge/ChatForge/CLIUI/obj/Debug/net8.0/refint/CLIUI.dll
+/home/pickle/Projects/PortfolioProjects/ChatForge/ChatForge/CLIUI/obj/Debug/net8.0/CLIUI.pdb
+/home/pickle/Projects/PortfolioProjects/ChatForge/ChatForge/CLIUI/obj/Debug/net8.0/CLIUI.genruntimeconfig.cache
+/home/pickle/Projects/PortfolioProjects/ChatForge/ChatForge/CLIUI/obj/Debug/net8.0/ref/CLIUI.dll
+/home/pickle/Projects/PortfolioProjects/ChatForge/ChatForge/CLIUI/bin/Debug/net8.0/Spectre.Console.dll
+/home/pickle/Projects/PortfolioProjects/ChatForge/ChatForge/CLIUI/obj/Debug/net8.0/CLIUI.csproj.AssemblyReference.cache
+/home/pickle/Projects/PortfolioProjects/ChatForge/ChatForge/CLIUI/obj/Debug/net8.0/CLIUI.csproj.Up2Date

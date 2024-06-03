@@ -1,0 +1,6 @@
+@ChatForge_HostAddress = http://localhost:443
+
+GET {{ChatForge_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

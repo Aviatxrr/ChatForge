@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AvaloniaProject">
+    <option name="projectPerEditor">
+      <map>
+        <entry key="ChatForgeUI/App.axaml" value="ChatForgeUI/ChatForgeUI.csproj" />
+        <entry key="ChatForgeUI/Views/ChatDashboardView.axaml" value="ChatForgeUI/ChatForgeUI.csproj" />
+        <entry key="ChatForgeUI/Views/Dialog.axaml" value="ChatForgeUI/ChatForgeUI.csproj" />
+        <entry key="ChatForgeUI/Views/LoginView.axaml" value="ChatForgeUI/ChatForgeUI.csproj" />
+        <entry key="ChatForgeUI/Views/MainWindow.axaml" value="ChatForgeUI/ChatForgeUI.csproj" />
+        <entry key="ChatForgeUI/Views/ServerListView.axaml" value="ChatForgeUI/ChatForgeUI.csproj" />
+      </map>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,4 @@
+/home/pickle/Projects/PortfolioProjects/ChatForge/publish/appsettings.Development.json
+/home/pickle/Projects/PortfolioProjects/ChatForge/publish/appsettings.json
+/home/pickle/Projects/PortfolioProjects/ChatForge/publish/ChatForge.pdb
+/home/pickle/Projects/PortfolioProjects/ChatForge/publish/ChatForge

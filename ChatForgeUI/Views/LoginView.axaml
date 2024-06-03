@@ -1,0 +1,90 @@
+<UserControl xmlns="https://github.com/avaloniaui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:vm="using:ChatForgeUI.ViewModels"
+             mc:Ignorable="d" d:DesignWidth="400" d:DesignHeight="300"
+             x:Class="ChatForgeUI.Views.LoginView"
+             x:DataType="vm:LoginViewModel"
+             Width="400"
+             Height="300">
+    
+    <TabControl>
+        <TabItem Header="Login">
+            <Grid ShowGridLines="True">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="5"/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition Width="5"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="5"/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition Height="60"/>
+                    <RowDefinition Height="5"/>
+                </Grid.RowDefinitions>
+                <TextBox Grid.Column="1"
+                         Grid.Row="1"
+                         Margin="28"
+                         Watermark="Username"
+                         Text="{Binding Username}"/>
+                <TextBox Grid.Column="1"
+                         Grid.Row="2"
+                         Margin="28"
+                         Watermark="Password"
+                         PasswordChar="*"
+                         Text="{Binding EnteredPassword}"/>
+                <Button Grid.Row="3"
+                        Grid.Column="1"
+                        HorizontalAlignment="Stretch"
+                        VerticalAlignment="Stretch"
+                        Margin="100, 5"
+                        Command="{Binding ConfirmLogin}"/>
+            </Grid>
+        </TabItem>
+        <TabItem Header="Register">
+            <Grid ShowGridLines="True">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="5"/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition Width="5"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="5"/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition Height="60"/>
+                    <RowDefinition Height="5"/>
+                </Grid.RowDefinitions>
+                <TextBox Grid.Column="1"
+                         Grid.Row="1"
+                         Watermark="Username"
+                         Margin="15"
+                         Text="{Binding Username}"/>
+                <TextBox Grid.Column="1"
+                         Grid.Row="2"
+                         Watermark="Password"
+                         Margin="15"
+                         PasswordChar="*"
+                         Text="{Binding EnteredPassword}"/>
+                <TextBox Grid.Column="1"
+                         Grid.Row="3"
+                         Watermark="Confirm Password"
+                         Margin="15"
+                         PasswordChar="*"
+                         Text="{Binding RegisterPassword}"/>
+                <Button Grid.Row="4"
+                        Grid.Column="1"
+                        HorizontalAlignment="Stretch"
+                        VerticalAlignment="Stretch"
+                        Margin="100, 5"
+                        Command="{Binding Register}"/>
+                
+                
+                
+            </Grid>
+        </TabItem>
+    </TabControl>
+</UserControl>

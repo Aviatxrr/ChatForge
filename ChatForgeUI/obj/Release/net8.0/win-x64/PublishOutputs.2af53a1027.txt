@@ -1,0 +1,2 @@
+/home/pickle/Projects/PortfolioProjects/ChatForge/publish/ChatForgeUI.pdb
+/home/pickle/Projects/PortfolioProjects/ChatForge/publish/ChatForgeUI.exe
